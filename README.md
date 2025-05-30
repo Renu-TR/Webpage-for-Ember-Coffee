@@ -1,5 +1,5 @@
 
-# ☕ Ember Coffee – Accessible Product Page
+#  Ember Coffee – Accessible Product Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -10,31 +10,31 @@
 
 ---
 
-## 🌟 Features
+##  Features
 
-### ✅ Accessibility Highlights
+### Accessibility Highlights
 
-- **🔤 Readable Header Tagline**  
+- **Readable Header Tagline**  
   Bold, large fonts with high contrast and darkened background image for clarity.
 
-- **🔧 Semantic HTML5 Structure**  
+- **Semantic HTML5 Structure**  
   Uses `<nav>`, `<section>`, `<footer>`, and logical heading hierarchy (`<h1>`, `<h2>`) for screen readers and clarity.
 
-- **🖼️ Descriptive Alt Text**  
+- **Descriptive Alt Text**  
   All images include meaningful `alt` attributes for assistive technologies.
 
-- **📬 Accessible Form**  
+- ** Accessible Form**  
   Labels are associated with input fields via `for` and `id`, and use `required` to support screen reader prompts.
 
-- **⌨️ Keyboard Navigation**  
+- **Keyboard Navigation**  
   All navigation links and buttons are easily focusable with a keyboard.
 
-- **🔘 Clear CTAs**  
+- ** Clear CTAs**  
   Buttons use descriptive text like “Shop Now” and meet WCAG color contrast standards.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -42,7 +42,7 @@
 
 ---
 
-## 🗂️ File Structure
+##  File Structure
 
 ```
 ember-coffee-accessible-page/
@@ -54,7 +54,7 @@ ember-coffee-accessible-page/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run the page locally:
 
@@ -67,13 +67,13 @@ To run the page locally:
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Screenshot of Hero Section](https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80)
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add ARIA landmarks for enhanced assistive support
 - Implement dark/light mode toggle
@@ -82,7 +82,7 @@ To run the page locally:
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational/demo purposes only.
 
